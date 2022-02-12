@@ -1,11 +1,8 @@
-# X491Refactor
-
-This is the main README for the project.
-
+# Restaurant Aggregator
 
 ## Executive Summary 
 
-We will develop an application that will be the “Trivago of Food” – a website that compares food delivery services and presents the best prices to the user. The name of our product is “FoodFeed”. We believe that we will be able to both help consumers save money on food while earning profits through business-to-business sales, advertising, and an optional tipping system.  
+Conceputal front end for a website that compares food delivery services and presents the best prices to the user. The name of our product is “FoodFeed”. We believe that we will be able to both help consumers save money on food while earning profits through business-to-business sales, advertising, and an optional tipping system.  
 
 ## Problem 
 
